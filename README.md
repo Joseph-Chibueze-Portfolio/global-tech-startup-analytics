@@ -12,7 +12,7 @@ An end-to-end data analytics project built with Python and Jupyter Notebooks, tr
 > *A high-resolution view of the executive analytics interface featuring real-time financial KPI cards and multi-panel performance plots.*
 
 <p align="center">
-  <img src="YOUR_DASHBOARD_IMAGE_LINK_HERE" alt="Tech Startup Analytics Dashboard" width="100%">
+  <img src="(https://github.com/Joseph-Chibueze-Portfolio/global-tech-startup-analytics/commit/f09e8c20028c5a428d9bd1f5ad30035caf755b20)" alt="Tech Startup Analytics Dashboard" width="100%">
 </p>
 
 ---
