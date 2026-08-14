@@ -55,6 +55,15 @@ Multi-Panel Data Visualization:**
 
 ---
 
+## 🛠️ Tools & Technologies
+* Programming Language: Python
+* Environment & Workspace: Jupyter Notebook, VS Code
+* Data Manipulation & Analysis: Pandas, NumPy
+* Data Visualization & Dashboarding: Matplotlib, Seaborn
+* 
+
+---
+
 ## 📁 Repository Files & Resource[View Interactive Notebook File](https://github.com/Joseph-Chibueze-Portfolio/global-tech-startup-analytics/blob/main/tech_startup_analysis_ipynb.ipynb)** — Complete Python code, documentation, and data transformations
 
 ---
