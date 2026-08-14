@@ -57,7 +57,7 @@ Multi-Panel Data Visualization:**
 
 ---
 
-## 📁 Repository Files & Resource[View Interactive Notebook File](https://github.com/Joseph-Chibueze-Portfolio/global-tech-startup-analytics/blob/main/tech_startup_analysis_ipynb.ipynb)** — Complete Python code, documentation, and data transformations[Access Raw Dataset](https://github.com/Joseph-Chibueze-Portfolio/global-tech-startup-analytics/blob/main/global_tech_startups_2026.csv)** — The source data file utilized for this analysis.
+## 📁 Repository Files & Resource[View Interactive Notebook File](https://github.com/Joseph-Chibueze-Portfolio/global-tech-startup-analytics/blob/main/tech_startup_analysis_ipynb.ipynb)** — Complete Python code, documentation, and data transformations
 
 ---
 
